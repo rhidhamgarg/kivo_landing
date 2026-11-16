@@ -4,6 +4,9 @@ import { ArrowLeft } from "lucide-react";
 export const metadata = {
   title: "Privacy Policy | Kivo",
   description: "Privacy policy and data handling practices for Kivo.",
+  alternates: {
+    canonical: "https://kivo.codes/privacy",
+  },
 };
 
 export default function PrivacyPage() {

@@ -4,6 +4,9 @@ import { ArrowLeft } from "lucide-react";
 export const metadata = {
   title: "Terms of Service | Kivo",
   description: "Terms of service and usage conditions for Kivo visual AI workflows.",
+  alternates: {
+    canonical: "https://kivo.codes/terms",
+  },
 };
 
 export default function TermsPage() {
