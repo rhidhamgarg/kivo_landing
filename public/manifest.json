@@ -1,0 +1,27 @@
+{
+  "short_name": "Kivo",
+  "name": "Kivo — Build. Connect. Automate.",
+  "description": "Production-minded AI workflow automation combining visual node orchestration with multi-agent intelligence.",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "type": "image/png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "/icon.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/apple-icon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#09090b",
+  "theme_color": "#09090b",
+  "display": "standalone"
+}
